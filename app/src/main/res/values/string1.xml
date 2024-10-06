@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login"><b><u>Click To LogIn</u></b></string>
+    <string name="signup"><b><u>Click To SignUp</u></b></string>
+    <string name="already_reg"><b><u>Already Registered</u></b></string>
+    <string name="gotologin"><b><u>Go On LogIn Page</u></b></string>
+</resources>

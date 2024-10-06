@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.smilebuddymajorproject.ui.home.HomeFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_add_assignment"
+        android:name="com.example.smilebuddymajorproject.ui.AddAssignment"
+        android:label="Add Assignment"
+        tools:layout="@layout/fragment_add_assignment" />
+
+    <fragment
+        android:id="@+id/nav_assignment_management"
+        android:name="com.example.smilebuddymajorproject.ui.AssignmentManageme"
+        android:label="Assignment Management"
+        tools:layout="@layout/fragment_assignment_manageme" />
+
+    <fragment
+        android:id="@+id/nav_submitted_assignment"
+        android:name="com.example.smilebuddymajorproject.ui.SubmittedAssignment"
+        android:label="Submitted Assignment"
+        tools:layout="@layout/fragment_submitted_assignment" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.smilebuddymajorproject.ui.Logout"
+        android:label="Logout"
+        tools:layout="@layout/fragment_logout" />
+</navigation>

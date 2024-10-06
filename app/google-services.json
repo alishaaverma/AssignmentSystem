@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779006899251",
+    "firebase_url": "https://myproject-5039e-default-rtdb.firebaseio.com",
+    "project_id": "myproject-5039e",
+    "storage_bucket": "myproject-5039e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779006899251:android:532edb4b65541e4bdd5f46",
+        "android_client_info": {
+          "package_name": "com.example.smilebuddymajorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779006899251-q4d0gnq6cqrk439prdnus6qst0au8t70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAi7ggiglNDW2e5Hn5peU9IaKHOIn6t4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779006899251-q4d0gnq6cqrk439prdnus6qst0au8t70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
